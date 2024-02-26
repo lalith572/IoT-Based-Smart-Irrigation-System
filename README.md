@@ -40,4 +40,9 @@
     - VCC --> 3v3 pin
     - OUT --> data pin (D4)
 
+ 5. Relay Module:
+    - GND --> G pin
+    - VCC --> 3v3 pin
+    - OUT --> data pin (D3)
+
 Refer Circuit Diagram image for connection.
